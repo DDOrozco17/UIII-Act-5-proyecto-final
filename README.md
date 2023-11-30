@@ -1,6 +1,5 @@
 # Diego Diaz Orozco 5J
 Panel de Admistración del sistema de venta en Php y Mysql
-![Sin título](https://user-images.githubusercontent.com/88554898/136677060-b9a2aefb-8961-41b7-bec0-d573708fca33.jpg)
+### Index
+![Sin título](https://github.com/DDOrozco17/UIII-Act-5-proyecto-final/blob/main/Captura%20de%20pantalla%202023-11-30%20104728.png)
 
-Plantilla Utilizada
-https://github.com/creativetimofficial/material-dashboard
